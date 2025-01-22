@@ -30,8 +30,6 @@ public:
         cin >> size;
         cout << "Enter extension: ";
         cin >> extension;
-
-        display();
     }
 
     void display() {
